@@ -1,0 +1,318 @@
+chests:
+  solo:
+    basic:
+      STONE:
+        data: 0
+        amount: 32
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      COOKED_BEEF:
+        data: 0
+        amount: 8
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      ARROW:
+        data: 0
+        amount: 8
+        enchants: {}
+        percent: 12  # 0 = SEMRPE
+      DIAMOND_HELMET:
+        data: 0
+        amount: 1
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      DIAMOND_LEGGINGS:
+        data: 0
+        amount: 1
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      DIAMOND_PICKAXE:
+        data: 0
+        amount: 1
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      IRON_BOOTS:
+        data: 0
+        amount: 1
+        enchants: {}
+        percent: 0
+      BOW:
+        data: 0
+        amount: 1
+        enchants: {}
+        percent: 0
+    basic2:
+      WOOD:
+        data: 0
+        amount: 32
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      COOKED_BEEF:
+        data: 0
+        amount: 8
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      ARROW:
+        data: 0
+        amount: 16
+        enchants: {}
+        percent: 4 # 0 = SEMRPE
+      EGG:
+        data: 0
+        amount: 16
+        enchants: {}
+        percent: 5 # 0 = SEMRPE
+      DIAMOND_AXE:
+        data: 0
+        amount: 1
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      SNOW_BALL:
+        data: 0
+        amount: 8
+        enchants: {}
+        percent: 5 # 0 = SEMRPE
+      FISHING_ROD:
+        data: 0
+        amount: 1
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      IRON_SWORD:
+        data: 0
+        amount: 1
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      EGG:
+        data: 0
+        amount: 16
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      SNOW_BALL:
+        data: 0
+        amount: 8
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      WATER_BUCKET:
+        data: 0
+        amount: 1
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      IRON_CHESTPLATE:
+        data: 0
+        amount: 1
+        enchants: {}
+        percent: 0
+      POTION:
+        data: 8226
+        amount: 1
+        enchants: {}
+        percent: 15 # 0 = SEMRPE
+      POTION:
+        data: 8195
+        amount: 1
+        enchants: {}
+        percent: 25 # 0 = SEMRPE
+    minifeast:
+      WOOD:
+        data: 0
+        amount: 16
+        enchants: {}
+        percent: 3 # 0 = SEMRPE
+      EGG:
+        data: 0
+        amount: 16
+        enchants: {}
+        percent: 5 # 0 = SEMRPE
+      POTION:
+        data: 16386
+        amount: 1
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      POTION:
+        data: 16449
+        amount: 1
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      LAVA_BUCKET:
+        data: 0
+        amount: 1
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      DIAMOND_CHESTPLATE:
+        data: 0
+        amount: 1
+        enchants: {}
+        percent: 30 # 0 = SEMRPE
+      DIAMOND_BOOTS:
+        data: 0
+        amount: 1
+        enchants: {}
+        percent: 30 # 0 = SEMRPE
+      DIAMOND_SWORD:
+        data: 0
+        amount: 1
+        enchants: {}
+        percent: 20 # 0 = SEMRPE
+      POTION:
+        data: 8195
+        amount: 1
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      BOW:
+        data: 0
+        amount: 1
+        enchants:
+          ARROW_DAMAGE:
+            level: 1
+        percent: 0 # 0 = SEMRPE
+      LAVA_BUCKET:
+        data: 0
+        amount: 1
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      COOKED_BEEF:
+        data: 0
+        amount: 8
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      ARROW:
+        data: 0
+        amount: 16
+        enchants: {}
+        percent: 4 # 0 = SEMRPE
+    feast:
+      STONE:
+        data: 0
+        amount: 16
+        enchants: {}
+        percent: 50 # 0 = SEMRPE
+      POTION:
+        data: 16386
+        amount: 1
+        enchants: {}
+        percent: 0 # 0 = SEMRP
+      POTION:
+        data: 8195
+        amount: 1
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      POTION:
+        data: 8226
+        amount: 1
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      POTION:
+        data: 16449
+        amount: 1
+        enchants: {}
+        percent: 50 # 0 = SEMRPE
+      ENDER_PEARL:
+        data: 0
+        amount: 2
+        enchants: {}
+        percent: 70 # 0 = SEMRPE
+      GOLDEN_APPLE:
+        data: 0
+        amount: 4
+        enchants: {}
+        percent: 25 # 0 = SEMRPE
+      GOLDEN_APPLE:
+        data: 0
+        amount: 2
+        enchants: {}
+        percent: 50 # 0 = SEMRPE
+      GOLDEN_APPLE:
+        data: 0
+        amount: 1
+        enchants: {}
+        percent: 75 # 0 = SEMRPE
+      DIAMOND_BOOTS:
+        data: 0
+        amount: 1
+        enchants:
+          PROTECTION_ENVIRONMENTAL:
+            level: 1
+        percent: 70 # 0 = SEMRPE
+      DIAMOND_HELMET:
+        data: 0
+        amount: 1
+        enchants:
+          PROTECTION_ENVIRONMENTAL:
+            level: 1
+        percent: 70 # 0 = SEMRPE
+      DIAMOND_SWORD:
+        data: 0
+        amount: 1
+        enchants:
+          DAMAGE_ALL:
+            level: 1
+        percent: 90
+      DIAMOND_SWORD:
+        data: 0
+        amount: 1
+        enchants:
+          DAMAGE_ALL:
+            level: 1
+          FIRE_ASPECT:
+            level: 1
+        percent: 90
+      EGG:
+        data: 0
+        amount: 16
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      EGG:
+        data: 0
+        amount: 16
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      SNOW_BALL:
+        data: 0
+        amount: 8
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+      WATER_BUCKET:
+        data: 0
+        amount: 1
+        enchants: {}
+        percent: 0 # 0 = SEMRPE
+    refil:
+      POTION:
+        data: 16386
+        amount: 1
+        enchants: {}
+        percent: 10 # 0 = SEMRPE
+      POTION:
+        data: 16449
+        amount: 1
+        enchants: {}
+        percent: 10 # 0 = SEMRPE
+      ENDER_PEARL:
+        data: 0
+        amount: 2
+        enchants: {}
+        percent: 60 # 0 = SEMRPE
+      GOLDEN_APPLE:
+        data: 0
+        amount: 1
+        enchants: {}
+        percent: 60 # 0 = SEMRPE
+      ARROW:
+        data: 0
+        amount: 8
+        enchants: {}
+        percent: 5 # 0 = SEMRPE
+      DIAMOND_CHESTPLATE:
+        data: 0
+        amount: 1
+        enchants:
+          PROTECTION_ENVIRONMENTAL:
+            level: 1
+        percent: 80 # 0 = SEMRPE
+      DIAMOND_LEGGINGS:
+        data: 0
+        amount: 1
+        enchants:
+          PROTECTION_ENVIRONMENTAL:
+            level: 1
+        percent: 80 # 0 = SEMRPE

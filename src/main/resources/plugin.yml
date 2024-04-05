@@ -1,0 +1,7 @@
+name: sw-arcade
+version: '${version}'
+main: com.lothus.engines.skywars.Instance
+depend:
+  - core
+authors:
+  - Toddy

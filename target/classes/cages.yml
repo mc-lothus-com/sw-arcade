@@ -1,0 +1,5 @@
+cages:
+  Roxo:
+    name: "Roxo"
+    schematicName: roxo.schematic
+    icon: GLASS
